@@ -12,3 +12,5 @@ ggplot(mtcars, aes(x = wt, y = disp)) +
 ```
 
 ## Second level header
+
+Now I'm making changes in `R` to practice commit + push. 
